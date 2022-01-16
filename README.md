@@ -9,4 +9,4 @@ Image classification in Healthcare
 
 LABESSE Maxence - maxence.labesse@yahoo.fr
 
-[https://github.com/Maxence-Labesse/Image-Classification-in-Healthcare]()
+[https://github.com/Maxence-Labesse/MOOC-Image-Classification-in-Healthcare]()
