@@ -9,4 +9,4 @@ Image classification in Healthcare
 
 LABESSE Maxence - maxence.labesse@yahoo.fr
 
-[https://github.com/Maxence-Labesse/LEARNING-Tkinter]()
+[https://github.com/Maxence-Labesse/Image-Classification-in-Healthcare]()
